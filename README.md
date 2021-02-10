@@ -2,6 +2,8 @@
 
 this shows simple message q implementation
 
+run p1 then p2,p3
+
 p1 sends few messages to p2 and p3
 and displays the info of msqid_ds structure
 -last send time
